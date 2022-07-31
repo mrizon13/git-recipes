@@ -28,6 +28,12 @@ p {
     font-style: sans-serif;
     font-size: 24px;
 }
+.button2 {
+    font-size: 28px;
+    font-style: helvetica;
+    font-style: times;
+    font-style: sans-serif;
+}
 #number2 {
     background-color: #E2E2E2;
     color: #457B9D;
@@ -39,5 +45,6 @@ p {
     font-size: 24px;
     font-weight: 700;
 }
+
 
 }
