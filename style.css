@@ -28,7 +28,16 @@ p {
     font-style: sans-serif;
     font-size: 24px;
 }
+.button1 {
+   background-color: #000000; 
+   color: #FFFFFF;
+}
+
 .button2 {
+    background-color: yellow; 
+    color: #1C0F13;
+}
+.button3 {
     font-size: 28px;
     font-style: helvetica;
     font-style: times;
@@ -44,7 +53,4 @@ p {
     background-color: #d8ffd8;
     font-size: 24px;
     font-weight: 700;
-}
-
-
 }
