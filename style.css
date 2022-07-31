@@ -10,3 +10,34 @@ div {
     font-weight: strong;
     text-align: center;
 }
+p {
+    background-color: #B7CECE; 
+    color: #1C0F13; 
+    font-size: 18px;
+}
+.number1 {
+    background-color: #E9D2C0;
+    font-style: verdana;
+    font-style: dejavu-sans;
+    font-style: sans-serif;
+}
+.number3 {
+    background-color: #E9D2C0;
+    font-style: verdana;
+    font-style: dejavu-sans;
+    font-style: sans-serif;
+    font-size: 24px;
+}
+#number2 {
+    background-color: #E2E2E2;
+    color: #457B9D;
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: #d8ffd8;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+}
