@@ -2,54 +2,32 @@ body {
     background-color: #E2E2E2;
     color: #1C0F13;
     font-size: 20px;
+    text-align: center;
 }
 div {
     background-color: #B7CECE;
     color: #1C0F13;
     font-size: 32px;
     font-weight: strong;
-    text-align: center;
 }
 p {
     background-color: #B7CECE; 
     color: #1C0F13; 
     font-size: 18px;
 }
-.number1 {
-    background-color: #E9D2C0;
-    font-style: verdana;
-    font-style: dejavu-sans;
-    font-style: sans-serif;
+.text {
+    font-weight: 200;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+
 }
-.number3 {
-    background-color: #E9D2C0;
-    font-style: verdana;
-    font-style: dejavu-sans;
-    font-style: sans-serif;
-    font-size: 24px;
-}
-.button1 {
-   background-color: #000000; 
-   color: #FFFFFF;
-}
-.button2 {
-    background-color: yellow; 
-    color: #000000;
-}
-.button3 {
-    font-size: 28px;
-    font-style: helvetica;
-    font-style: times;
-    font-style: sans-serif;
-}
-#number2 {
-    background-color: #E2E2E2;
-    color: #457B9D;
-    font-size: 36px;
+ 
+p.list {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+    font-size: 25px;
 }
 
-#number4 {
-    background-color: #d8ffd8;
-    font-size: 24px;
-    font-weight: 700;
+.button {
+    background-color: #B7CECE; 
+    color: #1C0F13; 
+    font-size: 20px;
 }
